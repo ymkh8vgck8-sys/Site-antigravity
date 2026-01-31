@@ -1,0 +1,9 @@
+<script src="https://cdn.tailwindcss.com"></script>
+<body class="bg-white text-black p-10 font-sans">
+    <nav class="flex justify-between font-bold uppercase text-xs tracking-widest mb-40">
+        <div>Antigravity Studio</div>
+        <div>Design / 2026</div>
+    </nav>
+    <h1 class="text-[15vw] leading-[0.8] font-black uppercase tracking-tighter">LESS<br>IS<br>MORE.</h1>
+    <p class="mt-20 max-w-sm text-xl text-gray-400">Nous créons des interfaces si pures qu'elles semblent défier la gravité.</p>
+</body>
